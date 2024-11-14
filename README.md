@@ -5,14 +5,13 @@ Features
 - Responsive design with smooth transitions.
 - Social media login options (Google, Facebook).
 
-Technologies Used
+
 ## Technologies Used
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 - ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-528DD7?style=flat&logo=font-awesome&logoColor=white)  
 
-## Contact
 
 ## Contact
 
